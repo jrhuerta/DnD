@@ -1,7 +1,7 @@
 # Barrow of the Two Brothers
 
 ## Intro
-![Riverden](images/village-riverden-night.png)
+![Riverden](images/riverden.png)
 
 **Description:**
 
